@@ -1,4 +1,4 @@
-Certainly! Here are some guidelines for working with Laravel:
+Here are some guidelines for working with Laravel:
 
 1. Install Laravel:
    - Make sure you have PHP and Composer installed on your system.
